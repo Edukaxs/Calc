@@ -8,5 +8,4 @@ HTML, CSS and JavaScript
 https://edukaxs.github.io/Calc/
 
 ## Collaboration 🤝
-- [@rhee-c31](https://github.com/rhee-c31)
-- [@Edukaxs](https://github.com/Edukaxs)
+![](./CONTRIBUTOR_MURAL.svg)
